@@ -1,0 +1,36 @@
+{
+  "name": "servqual_website",
+  "version": "1.0.0",
+  "description": "The final building phase of the ServQual website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YRAFE1998/ServQual_Website.git"
+  },
+  "keywords": [
+    "Servqual"
+  ],
+  "author": "Yousef Refaat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YRAFE1998/ServQual_Website/issues"
+  },
+  "homepage": "https://github.com/YRAFE1998/ServQual_Website#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "bootstrap-sass": "^3.4.1",
+    "install": "^0.13.0",
+    "jquery": "^3.5.1",
+    "npm": "^6.14.11",
+    "popper": "^1.0.1"
+  }
+}

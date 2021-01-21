@@ -1,0 +1,119 @@
+.background-sqdark{
+	background-color: #242424;
+}
+.navbar-toggler{
+	border:none;
+}
+.nav-item{
+	margin-left:10px; 
+	margin-right:10px
+}
+
+.underlined-gold{
+	text-decoration: underline;
+ 	text-decoration-color: #FFD700	;
+}
+footer{
+	padding-bottom: 20px
+}
+a{
+	color: #FFD700;
+}
+.oswald-font-style{
+	font-family: 'Oswald', sans-serif;
+}
+
+.roboto-font-style{
+		font-family: 'Roboto Condensed', sans-serif;
+}
+
+.jborder-gold{
+	border: solid;
+	border-width: 2px;
+	border-color:#FFD700; 
+	border-radius:2px;
+}
+@media (max-width:770px){
+	.header-font-style{
+		font-size: 11vw;
+	}
+}
+
+@media (min-width: 770px){
+	.header-font-style{
+		font-size: 5vw;
+	}
+}
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.btn:hover{
+	border-color: #FFD700;
+	background-color: #FFD700;
+}
+.counter{
+	font-family: 'Oswald', sans-serif;
+}
+.plus-sign{
+	vertical-align: top;
+}
+.section-content{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 20px
+}
+.statistics{
+	font-size: 20px;
+	margin-top: 20px;
+}
+.socia-media-icons{
+	display: inline;
+	margin-left:5px; 
+	margin-right:5px
+}
+.active .nav-link{
+	text-decoration: underline;
+ 	text-decoration-color: #FFD700	;
+}
+
+.text-mygold{
+	color: #FFD700;
+}
+.header-index{
+	background:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://i.ibb.co/WBQbJrD/unnamed-1.jpg");
+	height: 80vh;
+	background-size: cover;
+}
+
+.row-header{
+	height: 30vh;
+}
+.jumbotron{
+	margin-bottom:0px;
+}
+
+.section-title{
+	padding:20px;
+	border-bottom: 2px solid;
+	border-color: #FFD700;
+
+}
+
+.client-logo{
+	-webkit-filter: grayscale(100%);
+  	filter: grayscale(100%);
+}
+
+.client-logo:hover{
+	filter:grayscale(0%);
+}	
+
+.hire-us-template{
+	background:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://i.ibb.co/T2y9YhS/laptop-mockup-office-desk-23-2147860142.jpg");
+	background-size: cover;
+}
+.phone-nav:hover{
+	color:black;
+}
