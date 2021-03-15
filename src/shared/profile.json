@@ -1,0 +1,16 @@
+{
+    "name":"Servqual"
+    ,"address":{
+        "country": "Egypt",
+        "state": "Cairo",
+        "city": "First settlement, New Cairo",
+        "district": "EL Yasmeen 4",
+        "building-number": "61"
+    },
+    "phone":"02 23448544",
+    "email":"production@sq-is.com",
+    "facebook": "https://www.facebook.com/servqualeg/",
+    "instagram": "https://www.instagram.com/serv_qualeg/",
+    "linkedin":"",
+    "youtube":"https://www.youtube.com/channel/UC9C0z4rxpCEjBuZEE_gercA" 
+}

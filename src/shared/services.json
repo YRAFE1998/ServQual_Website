@@ -1,0 +1,1168 @@
+{
+    "Services": [
+        {
+            "name": "Advertising",
+            "servicelist": [
+                "Creative Design",
+                "Booths",
+                "Events Management",
+                "Printing Branding Materials",
+                "Merchandise",
+                "Signs (Indoor,Outdoor)"
+            ],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/textile.jpg",
+                    "altText": "Slide 1",
+                    "caption": "Slide 1"
+                },
+                {
+                    "src": "/assets/images/UVPrinter.jpg",
+                    "altText": "Slide 1",
+                    "caption": "Slide 1"
+                }
+            ]
+        },
+        {
+            "name": "Decoration",
+            "servicelist": [
+                "Tables",
+                "Tableaus",
+                "Chairs",
+                "Lighting Units",
+                "Textiles",
+                "Wedding Art",
+                "Wood Art"
+            ],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/textile.jpg",
+                    "altText": "Slide 1",
+                    "caption": "Slide 1"
+                },
+                {
+                    "src": "/assets/images/UVPrinter.jpg",
+                    "altText": "Slide 1",
+                    "caption": "Slide 1"
+                }
+            ]
+        },
+        {
+            "name": "WallPaper",
+            "servicelist": [
+                "Custom Designs",
+                "Catalog Designs"
+            ],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/textile.jpg",
+                    "altText": "",
+                    "caption": "sdfbdfbsdb"
+                },
+                {
+                    "src": "/assets/images/UVPrinter.jpg",
+                    "altText": "drerje",
+                    "caption": "trntrnh"
+                }
+            ]
+        },
+        {
+            "name": "Production House",
+            "servicelist": [
+                "UV Printer",
+                "Laser Cutter",
+                "Roll to Roll Printing",
+                "CNC Router"
+            ],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/textile.jpg",
+                    "altText": "Slide 1",
+                    "caption": "Slide 1"
+                },
+                {
+                    "src": "/assets/images/UVPrinter.jpg",
+                    "altText": "Slide 1",
+                    "caption": "Slide 1"
+                }
+            ]
+        }
+    ],
+    "Advertising": [
+        {
+            "name": "Creative Design",
+            "servicelist": [
+                "We have our team which implement all the branding tools and techniques.",
+                "Create all aspects of the campaign from A to Z.",
+                "Make the booth design/ exhibition design.",
+                "Create Event theme."
+            ],
+            "carouseldata": [
+                {
+                    "src": "https://www.youtube.com/embed/FGjH4BAyT1Q",
+                    "altText": "Slide 1",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "name": "Exhibition & Booth Creation",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/BoothsCreation/booth1.jpg",
+                    "altText": "Booth",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/BoothsCreation/booth2.jpg",
+                    "altText": "Booth",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/BoothsCreation/booth3.jpg",
+                    "altText": "Booth",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/BoothsCreation/booth4.jpg",
+                    "altText": "Booth",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/BoothsCreation/booth5.jpg",
+                    "altText": "Booth",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/BoothsCreation/booth6.jpg",
+                    "altText": "Booth",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "name": "Events Management",
+            "servicelist": [
+                "Design Exhibitions and Booths.",
+                "Event and Conference Decoration.",
+                "Lighting system.",
+                "Sound system.",
+                "Voting system.",
+                "Video production."
+            ],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/Events Management/event1.jpg",
+                    "altText": "Event",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Events Management/event2.jpg",
+                    "altText": "Event",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Events Management/event3.jpg",
+                    "altText": "Event",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Events Management/event4.jpg",
+                    "altText": "Event",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Events Management/event7.jpg",
+                    "altText": "Event",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Events Management/event8.jpg",
+                    "altText": "Event",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "name": "Customize Giveaways",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/Customize/customize giveaways1.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Customize/customize giveaways2.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Customize/customize giveaways3.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Customize/customize giveaways7.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Customize/customize giveaways10.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Customize/customize giveaways6.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Customize/customize giveaways8.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/Customize/customize giveaways9.jpg",
+                    "altText": "customize giveaways",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "name": "Printing Branding Materials",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/printing branding/branding2.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/printing branding/branding3.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/printing branding/branding4.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/printing branding/branding5.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/printing branding/branding6.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/printing branding/branding7.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/printing branding/branding8.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/printing branding/branding12.jpg",
+                    "altText": "Branding",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "name": "Signs(Out/Indoor)",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/signs/sign1.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/signs/sign2.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/signs/sign3.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/signs/sign4.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/signs/sign5.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/signs/sign6.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/signs/sign7.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/signs/sign8.jpg",
+                    "altText": "signs",
+                    "caption": ""
+                }
+            ]
+        }
+    ],
+    "Decoration": [
+        {
+            "name": "Tableaus",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Tableau/Tableau1.jpg",
+                    "altText": "Tableau",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Tableau/Tableau2.jpg",
+                    "altText": "Tableau",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Tableau/Tableau3.jpg",
+                    "altText": "Tableau",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Tableau/Tableau4.jpg",
+                    "altText": "Tableau",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Tableau/Tableau5.jpg",
+                    "altText": "Tableau",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Tableau/Tableau6.jpg",
+                    "altText": "Tableau",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Tableau/Tableau7.jpg",
+                    "altText": "Tableau",
+                    "caption": ""
+                }
+            ]
+        },
+                  
+       {
+            "name": "Glass Art 'Stained Glass' ",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass1.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass2.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass3.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass4.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass5.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass6.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass7.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass8.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass9.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass10.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                }, 
+                {
+                    "src": "/assets/images/DECORATION SERVICES/glass art/glass11.jpg",
+                    "altText": "stained glass",
+                    "caption": ""
+                }              
+                
+            ]
+        },
+        {
+            "name": "Ceramic Art",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/DECORATION SERVICES/ceramic art/cer1.jpg",
+                    "altText": "Ceramic Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/ceramic art/cer2.jpg",
+                    "altText": "Ceramic Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/ceramic art/cer3.jpg",
+                    "altText": "Ceramic Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/ceramic art/cer4.jpg",
+                    "altText": "Ceramic Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/ceramic art/cer5.jpg",
+                    "altText": "Ceramic Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/ceramic art/cer6.jpg",
+                    "altText": "Ceramic Art",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Wood Art",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/DECORATION SERVICES/WOOD ART/wood1.jpg",
+                    "altText": "Wood Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/WOOD ART/wood2.jpg",
+                    "altText": "Wood Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/WOOD ART/wood3.jpg",
+                    "altText": "Wood Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/WOOD ART/wood4.jpg",
+                    "altText": "Wood Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/WOOD ART/wood5.jpg",
+                    "altText": "Wood Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/WOOD ART/wood6.jpg",
+                    "altText": "Wood Art",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Tables",
+            "servicelist": [],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/DECORATION SERVICES/tables/table1.jpg",
+                    "altText": "Table",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/tables/table2.jpg",
+                    "altText": "Table",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/tables/table3.jpg",
+                    "altText": "Table",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/tables/table4.jpg",
+                    "altText": "Table",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/tables/table5.jpg",
+                    "altText": "Table",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/tables/table6.jpg",
+                    "altText": "Table",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Chairs",
+            "servicelist": [],
+            "carouseldata": [
+                
+                {
+                    "src": "/assets/images/DECORATION SERVICES/chairs/chair2.jpg",
+                    "altText": "Chair",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/chairs/chair3.jpg",
+                    "altText": "Chair",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/chairs/chair4.jpg",
+                    "altText": "Chair",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/chairs/chair5.jpg",
+                    "altText": "Chair",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/chairs/chair6.jpg",
+                    "altText": "Chair",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Lighting Unites",
+            "servicelist": [],
+            "carouseldata": [
+                
+                {
+                    "src": "/assets/images/DECORATION SERVICES/lighting unites/light1.jpg",
+                    "altText": "Lighting Unit",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/lighting unites/light2.jpg",
+                    "altText": "Lighting Unit",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/lighting unites/light3.jpg",
+                    "altText": "Lighting Unit",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/lighting unites/light4.jpg",
+                    "altText": "Lighting Unit",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/lighting unites/light5.jpg",
+                    "altText": "Lighting Unit",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/lighting unites/light6.jpg",
+                    "altText": "Lighting Unit",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Textiles 'Cushions, Curtains, Blackout, Table Cover'",
+            "servicelist": [],
+            "carouseldata": [
+                
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/textiles/curtain3.jpg",
+                    "altText": "Curtain",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/textiles/cushion1.jpg",
+                    "altText": "Cushion",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/textiles/cushion2.jpg",
+                    "altText": "Cushion",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/textiles/table cover1.jpg",
+                    "altText": "Table Cover",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/textiles/blackout1.jpg",
+                    "altText": "Blackout",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/textiles/blackout2.jpg",
+                    "altText": "Blackout",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Separators",
+            "servicelist": [],
+            "carouseldata": [
+                
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/separators/separator1.jpg",
+                    "altText": "Curtain",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/separators/separator2.jpg",
+                    "altText": "Cushion",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/separators/separator3.jpg",
+                    "altText": "Cushion",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/separators/separator4.jpg",
+                    "altText": "Table Cover",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/separators/separator5.jpg",
+                    "altText": "Blackout",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/separators/separator6.jpg",
+                    "altText": "Blackout",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Leather Art",
+            "servicelist": [],
+            "carouseldata": [
+                
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/leather art/leather1.jpg",
+                    "altText": "Leather Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/leather art/leather2.jpg",
+                    "altText": "Leather Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/leather art/leather3.jpg",
+                    "altText": "Leather Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/leather art/leather4.jpg",
+                    "altText": "Leather Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/leather art/leather5.jpg",
+                    "altText": "Leather Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/leather art/leather6.jpg",
+                    "altText": "Leather Art",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        
+        {
+            "name": "Wedding Art",
+            "servicelist": [],
+            "carouseldata": [
+                
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/wedding/wedding1.jpg",
+                    "altText": "Wedding Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/wedding/wedding2.jpg",
+                    "altText": "Wedding Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/wedding/wedding3.jpg",
+                    "altText": "Wedding Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/wedding/wedding4.jpg",
+                    "altText": "Wedding Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/wedding/wedding5.jpg",
+                    "altText": "Wedding Art",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/wedding/wedding6.jpg",
+                    "altText": "Wedding Art",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Doors",
+            "servicelist": [],
+            "carouseldata": [
+                
+                {
+                    "src": "/assets/images/DECORATION SERVICES/doors/door2.jpg",
+                    "altText": "Doors",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/doors/door3.jpg",
+                    "altText": "Doors",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/doors/door4.jpg",
+                    "altText": "Doors",
+                    "caption": ""
+                },
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/doors/door6.jpg",
+                    "altText": "Doors",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/doors/door7.jpg",
+                    "altText": "Doors",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/doors/door8.jpg",
+                    "altText": "Doors",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Rotary",
+            "servicelist": [],
+            "carouseldata": [
+                
+                {
+                    "src": "/assets/images/DECORATION SERVICES/rotary/rotary1.jpg",
+                    "altText": "Rotary",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/rotary/rotary2.jpg",
+                    "altText": "Rotary",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/rotary/rotary3.jpg",
+                    "altText": "Rotary",
+                    "caption": ""
+                },
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/rotary/rotary4.jpg",
+                    "altText": "Rotary",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/rotary/rotary5.jpg",
+                    "altText": "Rotary",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/rotary/rotary6.jpg",
+                    "altText": "Rotary",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/rotary/rotary7.jpg",
+                    "altText": "Rotary",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        },
+        {
+            "name": "Kids",
+            "servicelist": [],
+            "carouseldata": [
+                
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Kids/kids1.jpg",
+                    "altText": "Kids",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Kids/kids2.jpg",
+                    "altText": "Kids",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Kids/kids3.jpg",
+                    "altText": "Kids",
+                    "caption": ""
+                },
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Kids/kids4.jpg",
+                    "altText": "Kids",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Kids/kids5.jpg",
+                    "altText": "Kids",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Kids/kids6.jpg",
+                    "altText": "Kids",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Kids/kids7.jpg",
+                    "altText": "Kids",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        }
+    ],
+    "Wallpaper": [
+        {
+            "name": "Printed Interiors 'Wallpaper' ",
+            "servicelist": [],
+            "carouseldata": [
+                
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper1.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper2.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper3.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                },
+              
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper4.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper5.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper6.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper7.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/DECORATION SERVICES/Wallpaper/wallpaper8.jpg",
+                    "altText": "Wallpaper",
+                    "caption": ""
+                }
+                          
+                
+            ]
+        }
+    ],
+    "Production House": [
+        {
+            "name": "Direct UV Printing",
+            "servicelist": [
+                "Printing on many materials like:",
+                "Wood - Glass - Acrylic - Metal - Marble, etc.​",
+                "طباعة مباشرة على المسطحات",
+                " :بأمكانك الطباعة على جميع أنواع الخامات المسطحة مثل",
+                " .الخشب - الزجاج - الأكريليك - الحديد - الرخام و غيرها"
+            ],
+            "carouseldata": [
+                {
+                    "src": "https://www.youtube.com/embed/DrWjglFoq-c",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/LWSADqsjqMo",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/RxL2AMn7hP8",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/7ePJUNrFagM",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/aVddIkKN5ZI",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/aG7-LW2CXuA",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/WTePOxHJwik",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/w6xrHiatdeY",
+                    "altText": "Direct UV Printing",
+                    "caption": ""
+                }
+                
+            ]
+        },
+        {
+            "name": "HP Latex Roll to Roll Printing",
+            "servicelist": [
+                "Printing on:",
+                "Wallpaper - Leather - Canvas - Textiles - Vinyl - see through & any roll material.​",
+                "طباعة أتواب",
+                " .طباعه علي : ورق حائط - جلد - كنفاس - قماش - فينيل - سي ثرو  وأي خامه أخري"
+            ],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/HP NEW WEB/leather printing 1.jpg",
+                    "altText": "LeatherPrinting",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/HP NEW WEB/leather printing 2.jpg",
+                    "altText": "LeatherPrinting",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/HP NEW WEB/Wallpaper Printing.jpg",
+                    "altText": "Printing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/hXw0ztcpS5Q",
+                    "altText": "Printing",
+                    "caption": ""
+                }
+                
+            ]
+        },
+        {
+            "name": "Laser Cut & Engrave",
+            "servicelist": [
+                "Laser Cut and Engrave on:.",
+                "Wood - Acrylic - Paper - Leather - Foam & other  Materials.​",
+                "تقطيع و حفر ليزر ",
+                " .تقطيع و حفر ليزر علي : خشب - أكريلك - ورق كرتون - جلد - فوم  وخامات أخري"
+            ],
+            "carouseldata": [
+               
+                {
+                    "src": "https://www.youtube.com/embed/ND0eknY3B8A",
+                    "altText": "Paper Laser Cutting",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/Sq-REtl-FtQ",
+                    "altText": "Wood Laser cut & engraving service ",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/baXpLBmzcSs",
+                    "altText": "Laser Cut & Engrave_Leather - تقطيع و حفر بالليزر على جلد",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/kuIRFY9PHNQ",
+                    "altText": "Laser cutting",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/yDcZOBVo-7s",
+                    "altText": "Acrylic Laser Cutting",
+                    "caption": ""
+                }
+                
+            ]
+        },
+        {
+            "name": "CNC Router",
+            "servicelist": [
+                "Cut, Engrave & 3D drawing on any materials, such as all types of  wood, aluminum, plastics, cladding and foams. ",
+             
+                "سي إن سي راوتر",
+               " تقطيع, حفر و رسم علي جميع الخامات مثل الخشب بكل أنواعه, ألمونيم, بلاستك, كلادين وفوم"
+              ],
+            "carouseldata": [
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc1.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc5.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc10.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc4.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc9.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc7.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc8.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "/assets/images/CNC NEW WEB/cnc6.jpg",
+                    "altText": "CNC",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/xCt451b2Y-o",
+                    "altText": "CNC Rotary - 4 axis",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/wmR-t7t2D5g",
+                    "altText": "CNC Router - 3D drawing",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/baXpLBmzcSs",
+                    "altText": "Laser Cut & Engrave_Leather - تقطيع و حفر بالليزر على جلد",
+                    "caption": ""
+                },
+                {
+                    "src": "https://www.youtube.com/embed/srenKCFOqoQ",
+                    "altText": "CNC Router - V-drawing - سي ان سي روتر - رسم بواسطة بنطة هرمية",
+                    "caption": ""
+                }
+            ]
+        }
+    ],
+    "Full Projects": [],
+    "Prodo EG":[],
+    "backgroundImage": {
+        "Services": "/assets/images/ProductionHouse(2).jpg",
+        "Production House": "/assets/images/gif.gif",
+        "Decoration": "/assets/images/decorationbackground.jpg",
+        "Advertising": "/assets/images/Advertising-background.jpg",
+        "Wallpaper": "/assets/images/Wallpaperbackground.jpg",
+        "Full Projects": "/assets/images/projects-background.jpg"
+    }
+}

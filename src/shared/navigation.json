@@ -1,0 +1,16 @@
+{
+    "headerlist":[
+        {"name":"Home", "children":[]}, 
+        {"name":"About Us", "children":["Portfolio"]},
+        {"name":"Projects", "children":["Prodo EG", "Full Projects"]}, 
+        {"name":"Services", "children":["Advertising", "Decoration", "Wallpaper", "Production House", "Full Projects"]}, 
+        {"name":"Wallpaper", "children":[]}, 
+        {"name":"Production House","children":[]}, 
+        {"name":"Contact Us","children":[]}
+    ],
+     "urllist":["/", "/aboutus", "/projects", "/services", "/wallpapers", "/productionhouse", "/contactus"],
+     "pagetitlelist":["Details Make All The Difference", "ABOUT US","PORTFOLIO","WHAT WE DO?", "SOON", "TAKE A LOOK AT OUR IN HOUSE FACTORY", "CONTACT US"],
+     "headerimage":["/assets/images/ProductionHouse.jpg","/assets/images/AboutUs.jpg","/assets/images/Build.jpg","/assets/images/ProductionHouse(2).jpg"
+    ,"/assets/images/Wallpaper.jpg","/assets/images/gif.gif","/assets/images/ContactUs.jpg"]
+    
+}

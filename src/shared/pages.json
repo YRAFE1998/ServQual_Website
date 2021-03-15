@@ -1,0 +1,109 @@
+{
+    "home":
+        {
+        "aboutus":
+        {
+            "name":"About Us",
+            "subtitle":"WE ARE A PRODUCTION HOUSE AND COMPANY THAT SPECIALIZES IN BUSINESS PROMOTIONS AND PRODUCT DESIGN",
+            "description":"SERVQUAL is a full-service company in the field of advertising, decoration, production and medical. We have a wonderful staff and workshops equipped with the latest machines. Our products are all from the beginning of idea and design to the implementation of the manufacture of our hands ServQual, and this ensures that we implement them accurately and specifications required. Our principle is always to make the product easy to use and attractive with the highest quality and lowest cost, which is the secret of excellence and difference.",
+            "media": "",
+            "stats":[{"title":"Happy Clients","count":50},
+                {"title":"Completed Projects","count":100},
+                {"title":"Years of Experience","count":5},
+                {"title":"Awards Won","count":2}
+            
+            ]
+        },
+        "services":
+            {"name":"Our Services",
+            "description":"",
+            "servicelist":["Advertising","Decoration", "Wallpaper", "Production House","Turn key Projects"],
+            "servicesicons":["/assets/images/icons/Advertising.png","/assets/images/icons/Decoration.png","/assets/images/icons/Wallpaper.png","/assets/images/icons/Production-House.png","/assets/images/icons/Full-Projects.png"],
+            "links":["services","services","services","services","services"],
+            "descriptionlist":[
+                ["We provide our clients with print advertisement services and solutions to present their business ads in valuable spaces in newspapers, magazines, and billboards and make sure to build a great brand image that shouts out their business goals"],
+                ["We are specialized in designing, crafting and producing decoration products with unique styles, features and packaging, in addition, we can customize your product based on a specific design or requirement in one place."],
+                ["####################### Write Wallpaper service description here #######################"],
+                ["Our in-house production capabilities, equipment, and extensive experience will help you to produce, engrave, cut and print on your branding and decoration items on all materials under one roof ensuring the high quality and best prices."],
+                ["####################### Write Turn key projects description here #######################"]
+                ]
+            },
+        "clients":
+            {"name":"Our Clients",
+            "description":"Thank you for being our valued clients. We are grateful for the pleasure of serving your inquires.",
+            "clientslisticons":[
+                "/assets/images/Logos/CFC-logo.png",
+                "/assets/images/Logos/Xiaoomi-logo.png",
+                "/assets/images/Logos/Vezeeta-logo.png",
+                "/assets/images/Logos/Unilever-logo.png",
+                "/assets/images/Logos/Takeda-logo.png",
+                "/assets/images/Logos/Shabana-logo.png",
+                "/assets/images/Logos/El-Ezaby-logo.png",
+                "/assets/images/Logos/Clorox-logo.png"
+            ],
+            "alt":[
+                "CFC-Logo","Xiaomi-Logo","Vezeeta-Logo","Unilever-Logo","Takeda-Logo","Shabana-Logo","El-Ezaby-Logo","Clorox-Logo"
+            ]
+            }
+        }
+    ,
+
+    "aboutus":{
+        "aboutus":{
+        "subtitle":"WE ARE A PRODUCTION HOUSE AND COMPANY THAT SPECIALIZES IN BUSINESS PROMOTIONS AND PRODUCT DESIGN",
+        "description":"SERVQUAL is a full-service company in the field of advertising, decoration, production and medical. We have a wonderful staff and workshops equipped with the latest machines. Our products are all from the beginning of idea and design to the implementation of the manufacture of our hands ServQual, and this ensures that we implement them accurately and specifications required. Our principle is always to make the product easy to use and attractive with the highest quality and lowest cost, which is the secret of excellence and difference.",
+        "media": "https://www.youtube.com/embed/CPw2jvsMu8Y"
+        },
+        "quote":{
+            "quote":"Design is Intellegience made visible",
+            "author":"Alina Wheeler"
+        },
+        "mission":{
+            "name":"Mission",
+            "description":"Positively influence the lives of all customers with whom we have the pleasure of working, and leave a lasting impression on their minds and imagination"
+        },
+        "vision":{
+            "name":"Vision",
+            "description":"Aim to shape spaces with “timeless designs” and want to be a globally recognized professional interior design company, providing solutions in the field of high-end corporate, commercial & residential interiors"
+        }
+
+    },
+
+    "projects":{
+
+    },
+
+    "services":{
+
+    },
+
+    "wallpapers":{
+        
+    },
+
+    "productionhouse":{
+        
+    },
+
+    "contactus":{
+        "company":"Servqual",
+        "address":{
+            "country": "Egypt",
+            "state": "Cairo",
+            "city": "First settlement, New Cairo",
+            "district": "EL Yasmeen 4",
+            "buildingnumber": "61"},
+        "phone":"02 23448544",
+        "email":"production@sq-is.com",
+        "facebook": "https://www.facebook.com/servqualeg/",
+        "instagram": "https://www.instagram.com/serv_qualeg/",
+        "linkedin":"",
+        "youtube":"https://www.youtube.com/channel/UC9C0z4rxpCEjBuZEE_gercA",
+        "embeddedmap":{
+            "width":"100%", 
+            "height":"100%",
+            "loading":"lazy",
+            "src":"https://www.google.com/maps/embed/v1/place?q=place_id:ChIJx21KNbUiWBQRAvCoNgduGMg&key=AIzaSyDx4NSpsLw48ZNJNQAoHqcstqu-C5vnA5U"
+        }
+    }
+}

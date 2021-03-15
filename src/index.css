@@ -1,0 +1,437 @@
+
+@keyframes navigation-animation{
+	from {background-color:transparent}
+	to {background-color: #232323;}
+}
+
+.carousel-inner{
+	height: 100%;
+}
+.carousel-description-container{
+	background: linear-gradient(0deg, rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+	position: absolute;
+	bottom: 0%;
+	width: 100%;
+	padding: 30px;
+	height: 40%;
+
+
+}
+
+ol li{
+	margin: 5px 0px;
+}
+
+p{
+	font-family:'Roboto';
+	font-size: 20px;
+}
+
+iframe{
+	border: 0;
+}
+a{
+	word-wrap: break-word;
+}
+.flickity-page-dots{
+	margin-bottom: 40px !important;
+}
+.carousel-cell img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+@media (max-width:760px){
+	.carousel-cell {
+		width: 100%;
+		position: absolute;
+	}
+}
+
+@media (min-width:760px){
+	.carousel-cell {
+		width: 530px;
+		max-width: 100%;
+		position: absolute;
+
+	}
+}
+
+
+.leftbutton{
+	position: absolute;
+	top: 45%;
+	left: 15px;
+	color: white;
+
+}
+
+.rightbutton{
+	position: absolute;
+	top:45%;
+	right:15px;
+	color: white;
+}
+
+.imgselect:hover{
+	background-color: transparent !important;
+	border-color: transparent !important;
+	
+}
+
+.leftbutton:hover{
+	background-color: transparent !important;
+	border-color: transparent !important;
+}
+
+.rightbutton:hover{
+	background-color: transparent !important;
+	border-color: transparent !important;
+}
+
+
+.dropdown-menu{
+	background:#232323;
+	border-color: #232323;
+	border-radius: 0px;
+	transform: translate(0px,-1px);
+}
+
+@media (max-width:991px){
+	.nav-link{
+		margin: 10px auto;
+	}
+	.nav-link span{
+		font-size: 3vh;
+	}
+}
+
+.dropdown-item:hover{
+	background-color: #232323;
+}
+
+.dropdown-item:hover{
+	background-color: #393939 !important;
+}
+
+.background-sqdark{
+	background-color: #232323;
+}
+.x{
+
+}
+.stat-background{	
+	background: linear-gradient(180deg,black,#444444);
+}
+.seemorebutton{
+	position: absolute;
+	bottom:10%;
+	left: 0;
+}
+.navigation-background{
+	animation-name: navigation-animation;
+	animation-duration: 1s;
+	animation-fill-mode:forwards;}
+.block-height{
+	min-height: 380px;
+}
+.block-row-height{
+	height:380px;
+}
+
+@media (max-width:768px){
+	.block-row-height{
+		height: 650px;
+	}
+}
+.background-sqgold{
+	background-color: #DBAE50;
+}
+.sq-gold-btn:hover{
+	border-color: #393939;
+}
+.sq-gold-btn.active{
+	background-color: #DBAE50;
+}
+.sq-gold-btn{
+	border-color: #DBAE50;
+	border-style: solid;
+	border-radius: 20px;
+	color: white;
+	cursor: pointer;
+	padding: 2px 10px;
+	margin-bottom: 5px;
+}
+
+@media(min-width:760px){
+	.verticalblock-height{
+		height: 500px;
+	}
+}
+@media(max-width:760px){
+	.verticalblock-height{
+		height: 270px;
+	}	
+}
+
+.graphics{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.navbar-toggler{
+	border:none;
+}
+.nav-item{
+	margin-left:10px; 
+	margin-right:10px;
+	cursor: pointer;
+	
+}
+
+.underlined-gold{
+	text-decoration: underline;
+ 	text-decoration-color: #DBAE50	;
+}
+footer{
+	padding-bottom: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+.icon{
+	height: 60px;
+}
+@keyframes Zoomandcolor{
+	from{height: 60px}
+	to{height: 80px;}
+}
+.icon:hover{
+	animation-name: Zoomandcolor;
+	animation-duration: 0.5s;
+	animation-fill-mode: forwards;
+	cursor: pointer;
+}
+
+a{
+	color: #DBAE50;
+}
+
+a.canceled{
+	color:black;
+}
+
+a.canceled:hover{
+	text-decoration: none !important;
+}
+.oswald-font-style{
+	font-family: 'Oswald', sans-serif !important;
+}
+
+.roboto-font-style{
+		font-family: 'Roboto Condensed', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+.roboto-normal-font-style{
+	font-family: 'Roboto', sans-serif;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+.jborder-gold{
+	border: solid;
+	border-width: 2px;
+	border-color:#DBAE50; 
+	border-radius:2px;
+}
+@media (max-width:770px){
+	.header-font-style{
+		font-size: 11vw;
+	}
+}
+
+@media (min-width: 770px){
+	.header-font-style{
+		font-size: 5vw;
+	}
+}
+
+.serviceicon{
+	top: -30px;
+	border-radius: 150px;
+	padding:20px;
+}
+
+
+.btn:hover{
+	border-color: #DBAE50;
+	background-color: #DBAE50;
+	color: black !important;
+}
+
+.fas:hover{
+	color: black;
+}
+
+
+.counter{
+	font-family: 'Oswald', sans-serif;
+}
+.plus-sign{
+	vertical-align: top;
+}
+.section-content{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 20px
+}
+
+.br-seperator{
+	margin: 50px;
+	content: " ";
+}
+
+.verticalblock-desc{
+	margin-top: 5px;
+	font-size: 20px
+}
+.statistics{
+	font-size: 20px;
+	margin-top: 20px;
+}
+.socia-media-icons{
+	display: inline;
+	margin-left:5px; 
+	margin-right:5px
+}
+.active .nav-link{
+	text-decoration: underline !important;
+ 	text-decoration-color: #DBAE50	!important;
+}
+
+.text-mygold{
+	color: #DBAE50;
+}
+
+.header-index{
+
+	height: 80vh;
+}
+
+.header-page{
+	height: 80vh;
+	background-size: cover;
+}
+
+.quote-1{
+	background:linear-gradient(0deg, rgba(57, 57, 57, 0.6), rgba(57, 57, 57, 0.6)), url("./assets/images/Quote.jpg");
+	background-size: cover;
+	font-family: 'Potta One', cursive;
+	height: 80vh;
+	background-position-y: center;
+	background-attachment: fixed;
+
+}
+.carousel.slide{
+	height: 100%;
+}
+.carousel-item{
+	height: 100%;
+	background: black;
+}
+.Imageshower{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(219, 174, 80, 0.9);
+	z-index:10000;
+}
+
+.Imageshowerclosebutton{
+	height: 30px;
+}
+
+.mediadescription-img{
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	object-fit: contain;
+}
+
+.mediadescription-imgthumbnail{
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	object-fit: cover;
+}
+@media(min-width:992px){
+	.w75-w100{
+		width: 100%;
+	}
+}
+
+@media(max-width:991px){
+	.w75-w100{
+		width: 80%;
+	}
+}
+
+
+.quote-text{
+	height: 65vh;
+}
+
+.row-header-index{
+	height: 30vh;
+}
+.row-header-page{
+	height: 60vh;
+}
+.jumbotron{
+	margin-bottom:0px;
+}
+
+.iframeheight{
+	height: 60vh;
+}
+
+.section-title{
+	border-bottom: 2px solid;
+	border-color: #DBAE50;
+	padding-top: 20px;
+
+}
+
+
+.background-fixed{
+	background-attachment: fixed;
+}
+
+.hire-us-template{
+	background:linear-gradient(0deg, rgba(57, 57, 57, 0.6), rgba(57, 57, 57, 0.6)), url("./assets/images/HireUs.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+.phone-nav:hover{
+	color:black;
+}
+  
+.hundredx75vh{
+	width: 100%;
+	 height: 80vh
+}
+.thinscroll::-webkit-scrollbar{
+	width: 2px;
+}
+.thinscroll::-webkit-scrollbar-track{
+    -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0);
+	width: 1px;
+}
+
+.thinscroll::-webkit-scrollbar-thumb{
+	background-color: white;
+	outline: 1px solid white;
+  }
