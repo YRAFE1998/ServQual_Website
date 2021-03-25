@@ -4,7 +4,6 @@ import BlockAboutUs from '../components/Block-aboutus.js';
 import NavigationBar from '../components/header.js';
 import ClientsSimp from '../components/clients-simp';
 import BlockHireUs from '../components/Block-HireUs.js';
-import CarouselBlock from '../components/Block-caroucel.js';
 import Servicesection from '../components/Block-servicessimp';
 
 

@@ -24,7 +24,7 @@ class BlockHireUs extends Component{
                     </div>
                     <div className="col-12 text-center pt-5"><h4>Or simply fill the form below</h4></div>
                 </div>
-                <form>
+                <form method="post" action="/submitform">
     
                     <div className="row pb-5 pt-2 text-white roboto-font-style">
     
@@ -36,22 +36,22 @@ class BlockHireUs extends Component{
     
                         <div className="col-12 col-md-6 form-group">
                             <label htmlFor="InputEmail">Email address</label>
-                            <input type="email" className="form-control" id="InputEmail" placeholder="Enter email" />
+                            <input type="email" className="form-control" name="email" id="InputEmail" placeholder="Enter email" />
                             <small id="emailwarning" className="form-text text-muted">We'll never share your email with anyone else.</small>
                         </div>
                         <div className="col-12 col-md-6 form-group">
                             <label htmlFor="InputPhoneNumber">Phone Number</label>
-                            <input type="tel" className="form-control" id="InputPhoneNumber" placeholder="ex. 010 0000 0000" />
+                            <input type="tel" className="form-control" name="phone" id="InputPhoneNumber" placeholder="ex. 010 0000 0000" />
                         </div>
                         <div className="col-12 col-md-6 form-group">
                             <label htmlFor="InputCompany">Company (optional)</label>
-                            <input type="text" className="form-control" id="InputCompany" placeholder="Company Name" />
+                            <input type="text" className="form-control"name="company" id="InputCompany" placeholder="Company Name" />
                         </div>
                         <div className="col-12">
                             
                             <div className="form-group">
                                 <label htmlFor="MessageTextArea">Message</label>
-                                <textarea className="form-control" id="MessageTextArea" rows="3"></textarea>
+                                <textarea className="form-control" name = "message" id="MessageTextArea" rows="3"></textarea>
                             </div>
     
                         </div>
