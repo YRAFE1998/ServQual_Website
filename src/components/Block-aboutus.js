@@ -159,6 +159,10 @@ class Stats extends Component{
             }, this.step);
 	}
    
+
+	componentWillUnmount(){
+		clearInterval(this.interval);
+	}
 	render(){
 		
 		const stats= this.stats;
@@ -231,6 +235,7 @@ function Explanatoryvideo(props) {
 }
 function isScrolledIntoView(elem)
 {
+	
 	var docViewTop = $(window).scrollTop();
     var docViewBottom = docViewTop + $(window).height();
 

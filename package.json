@@ -2,6 +2,7 @@
   "name": "ServQual",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.sq-is.com",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "@testing-library/jest-dom": "^5.11.9",
@@ -15,6 +16,7 @@
     "jquery": "^3.5.1",
     "jquery-bridget": "^3.0.0",
     "mongoose": "^5.12.2",
+    "node-sass": "^5.0.0",
     "popper.js": "^1.16.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -49,5 +51,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:8080"
+  "devDependencies": {
+    "mv": "^2.1.1"
+  }
 }

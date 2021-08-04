@@ -24,10 +24,8 @@ import ErrorPage from './pages/404.js';
 
 
 import Footer from './components/footer.js';
-import 'popper.js';
-import 'jquery/dist/jquery.js';
 import 'bootstrap/dist/js/bootstrap.js';
-import './js/scripts.js';
+//import './js/scripts.js';
 
 
 
