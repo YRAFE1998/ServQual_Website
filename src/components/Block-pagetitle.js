@@ -5,6 +5,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'jquery/dist/jquery.min.js';
 import 'popper.js/dist/umd/popper.min.js';
 import 'bootstrap/dist/js/bootstrap.min.js';
+import $ from 'jquery';
 
 class AboutUsbuttonrender extends Component{
     constructor(props){
@@ -62,10 +63,25 @@ class PageTitle extends Component{
         this._Sloganlist_ = this._data_.pagetitlelist;
         this._imagelist_ = this._data_.headerimage;
     }
+    
+
+
+    componentDidMount(){
+        $("#aboutusbuttonheader").click(function(event) {
+            var y=$("#aboutus").offset().top -100;
+            console.log(y);
+            $("html,body").animate({scrollTop: y}, 2000);
+        });
+        
+        $("#getaquotebuttonheader").click(function(event) {
+            var y=$("#HireUs").offset().top -80;
+            console.log(y);
+            $("html,body").animate({scrollTop: y}, 2000);
+        });
+    }
 
     render(){
         var index = this._menuitems_.indexOf(this._page_);
-
         const Slogan =this._Sloganlist_[index];
         const homebuttonsrender = (index===0 ? <PageTitleHomeButtonsrender />: null);
         var classes = "col-12 text-center text-white";

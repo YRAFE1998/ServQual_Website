@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 
-
+import {Link} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 import '../index.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap/dist/js/bootstrap.min';
 
-
+import $ from 'jquery';
 
 
 function Dropdownmenu(props) {
@@ -35,13 +35,13 @@ class Headermenuitem extends Component{
             this.classes += ' dropdown d-flex';
             class3 += ' ml-0 mr-0 w75-w100';
 
-            childrenlist= this._childrenlist_.map((item,i) => <li key={this.props.Key + i.toString()}><a href={(item=== "Prodo EG"? "https://prodoeg.com/":"/services/" + item)} className="dropdown-item"><h4 className="text-light"> {item} </h4></a></li>);
+            childrenlist= this._childrenlist_.map((item,i) => <li key={this.props.Key + i.toString()}><Link to={(item=== "Prodo EG"? "https://prodoeg.com/":"/services/" + item)} className="dropdown-item"><h4 className="text-light"> {item} </h4></Link></li>);
             submenu=<Dropdownmenu>{childrenlist}</Dropdownmenu>;
         }
-        const x = <li key={this.props.Key} className={this.classes}><a role="menu" href={this.props.url} onClick={this.props.onClick} className={class3}><span className="h5">{this.props.page}</span> {submenu}</a><span className="text-right d-flex d-lg-none position-absolute h5 nav-link toggledropdown" style={{right:"5px"}}> + </span>
+        const x = <li key={this.props.Key} className={this.classes}><Link role="menu" /*to={this.props.url}*/ onClick={this.props.onClick} className={class3}><span className="h5">{this.props.page}</span> {submenu}</Link><span className="text-right d-flex d-lg-none position-absolute h5 nav-link toggledropdown" style={{right:"5px"}}> + </span>
         
         </li>;
-        const y = <li key={this.props.Key} className={this.classes}><a href={this.props.url} onClick={this.props.onClick} className={class3}><span className="h5">{this.props.page}</span></a>
+        const y = <li key={this.props.Key} className={this.classes}><Link to={this.props.url} onClick={this.props.onClick} className={class3}><span className="h5">{this.props.page}</span></Link>
         </li>;
         if(this._childrenlist_.length > 1){
             return(x);
@@ -72,6 +72,21 @@ class NavigationBar extends Component{
         );
     }
 
+    componentDidMount(){
+        $(window).on('scroll',function(){
+
+            if ($(window).scrollTop() >= 100) {
+                $('.navbar ').addClass("navigation-background");
+            } else {
+                $('.navbar').removeClass("navigation-background");
+            }
+         });
+
+
+        window.scrollTo(0,0);
+
+        
+    }
     render(){
 
         const menuitemslistitems = this._menuitemsname_;
