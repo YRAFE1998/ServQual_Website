@@ -9,13 +9,13 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-app.get('/ping', function (req, res) {
-    console.log('X');
- return res.send('pong');
-});
-app.use('/', index);
-app.use('/:request', index);
-app.use('/services/:serviceid', index);
+// app.get('/ping', function (req, res) {
+//     console.log('X');
+//  return res.send('pong');
+// });
+// app.use('/', index);
+// app.use('/:request', index);
+// app.use('/services/:serviceid', index);
 
 app.use(express.static(path.join(__dirname, 'build')));
 

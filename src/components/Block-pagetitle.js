@@ -61,19 +61,39 @@ class PageTitle extends Component{
         this._menuitems_ = this.props.headerlist;
         this._Sloganlist_ = this._data_.pagetitlelist;
         this._imagelist_ = this._data_.headerimage;
+
+        const drupalService = props.drupalService;
+		this.state = {
+			data: []
+		}
+		drupalService.getTitleBlock(this._page_)
+			.then(res => {
+				let responseData = res.data;
+				console.log("Response Data:- ", responseData)
+				this.setState({
+					data: responseData
+				});
+			});
+        
     }
 
     render(){
         var index = this._menuitems_.indexOf(this._page_);
 
-        const Slogan =this._Sloganlist_[index];
+        let slogan = "";
+        let backgroundImageSrc = "";
+        if(this.state.data.length>0){
+            slogan = this.state.data[0].field_slogan[0].value;
+            backgroundImageSrc = this.state.data[0].field_background_image[0].url;
+        }
+        // const Slogan =this._Sloganlist_[index];
         const homebuttonsrender = (index===0 ? <PageTitleHomeButtonsrender />: null);
         var classes = "col-12 text-center text-white";
         classes += (index === 0 ? " align-self-end" : " align-self-center");
-        const backgroundImage = 'linear-gradient(0deg, rgba(57, 57, 57, 0.6), rgba(57, 57, 57, 0.6)) , url("' + this._imagelist_[index] + '")'
+        const backgroundImage = 'linear-gradient(0deg, rgba(57, 57, 57, 0.6), rgba(57, 57, 57, 0.6)) , url("' + backgroundImageSrc + '")'
         const mystyle = {
+            backgroundSize: "cover !important",
             background: backgroundImage , 
-            backgroundSize: "cover",
             borderRadius: 0,
             backgroundAttachment: 'fixed'
 
@@ -83,7 +103,7 @@ class PageTitle extends Component{
     	    	<div className="container">
     		    	<div className="row row-header-page">
 	    	    		<div className={classes}>
-		    		    	<h1 className="header-font-style roboto-font-style">{Slogan}</h1>
+		    		    	<h1 className="header-font-style roboto-font-style">{slogan}</h1>
 			        	</div>
                     {homebuttonsrender}
     	    	</div>

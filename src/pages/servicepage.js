@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import ServiceTitle from '../components/Block-servicetitle.js';
 import BlockLeftDescriptionGraphicSingle from '../components/Block-LeftDescriptionWGraphicSingle';
 import NavigationBar from '../components/header.js';
+import axios from 'axios';
 
 class ServicePage extends Component{
     constructor(props){

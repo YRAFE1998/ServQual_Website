@@ -28,6 +28,7 @@ import 'popper.js';
 import 'jquery/dist/jquery.js';
 import 'bootstrap/dist/js/bootstrap.js';
 import './js/scripts.js';
+import { DrupalClientAdapter } from './shared/services.js';
 
 
 
@@ -39,19 +40,19 @@ class App extends Component{
       super(props);
       this._data_ = require('./shared/navigation.json');
       this._menuitemslinks_ = this._data_.urllist;
-
+      this.drupalService = new DrupalClientAdapter();
       this._menuitems_ = this._data_.headerlist;
       this._menuitemsname_ = this._menuitems_.map((item) => item.name);
 
 
       this.components_list=[
-        <HomePage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} />
-        ,<AboutusPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_}/>
-        ,<ProjectsPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_}/>
-        ,<ServicesPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_}/>
-        ,<WallPapersPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_}/>
-        ,<ProductionHousePage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_}/>
-        ,<ContactusPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_}/>
+        <HomePage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} drupalService={this.drupalService}/>
+        ,<AboutusPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} drupalService={this.drupalService}/>
+        ,<ProjectsPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} drupalService={this.drupalService}/>
+        ,<ServicesPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} drupalService={this.drupalService}/>
+        ,<WallPapersPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} drupalService={this.drupalService}/>
+        ,<ProductionHousePage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} drupalService={this.drupalService}/>
+        ,<ContactusPage urllist={this._menuitemslinks_} headerlist={this._menuitemsname_} drupalService={this.drupalService}/>
     ];
       
     }
@@ -75,7 +76,7 @@ class App extends Component{
             {routecomp}
         </Switch>
         </Router>
-        <Footer />
+        <Footer drupalService={this.drupalService} />
         </>
 
       );
